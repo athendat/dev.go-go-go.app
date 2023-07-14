@@ -911,9 +911,9 @@ class ContactComponent {
   },
   standalone: true,
   features: [_angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵStandaloneFeature"]],
-  decls: 78,
+  decls: 75,
   vars: 1,
-  consts: [[1, "page-banner", "bg-1"], [1, "d-table"], [1, "d-table-cell"], [1, "container"], [1, "page-content"], ["routerLink", "/"], [1, "pt-100", "pb-70"], [1, "row"], [1, "col-lg-4", "col-md-6"], [1, "contact-info"], [1, "bx", "bxs-phone"], ["href", "tel:+52-1-999-518-8337"], ["href", "tel:+52-1-999-544-8624"], [1, "bx", "bxs-map-pin"], [1, "col-lg-4", "col-md-6", "offset-md-3", "offset-lg-0"], [1, "bx", "bxs-envelope"], ["href", "mailto:info@wimexpress.com"], ["href", "mailto:mabel.comelect@wiremidmx.com"], [1, "contact-form-area", "pb-100"], [1, "section-title"], [1, "contact-form"], ["id", "contactForm", 3, "formGroup"], [1, "col-md-6", "col-md-6"], [1, "form-group"], ["type", "text", "formControlName", "name", "id", "name", "required", "", "placeholder", "Su nombre y apellidos", 1, "form-control"], ["type", "email", "formControlName", "email", "id", "email", "required", "", "placeholder", "Su correo electr\u00F3nico", 1, "form-control"], ["type", "text", "formControlName", "subject", "id", "msg_subject", "required", "", "placeholder", "Asunto", 1, "form-control"], ["type", "text", "formControlName", "phone", "id", "phone_number", "required", "", "placeholder", "Su tel\u00E9fono", 1, "form-control"], [1, "col-lg-12", "col-md-12"], ["formControlName", "message", "id", "message", "cols", "30", "rows", "6", "required", "", "placeholder", "Escriba su mensaje...", 1, "form-control"], [1, "col-lg-12", "col-md-12", "text-center"], ["type", "submit", 1, "default-btn-one"]],
+  consts: [[1, "page-banner", "bg-1"], [1, "d-table"], [1, "d-table-cell"], [1, "container"], [1, "page-content"], ["routerLink", "/"], [1, "pt-100", "pb-70"], [1, "row"], [1, "col-lg-4", "col-md-6"], [1, "contact-info"], [1, "bx", "bxs-phone"], ["href", "tel:+535-254-1322"], [1, "bx", "bxs-map-pin"], [1, "col-lg-4", "col-md-6", "offset-md-3", "offset-lg-0"], [1, "bx", "bxs-envelope"], ["href", "mailto:info@go-go-go.app"], ["href", "mailto:postmaster@go-go-go.app"], [1, "contact-form-area", "pb-100"], [1, "section-title"], [1, "contact-form"], ["id", "contactForm", 3, "formGroup"], [1, "col-md-6", "col-md-6"], [1, "form-group"], ["type", "text", "formControlName", "name", "id", "name", "required", "", "placeholder", "Su nombre y apellidos", 1, "form-control"], ["type", "email", "formControlName", "email", "id", "email", "required", "", "placeholder", "Su correo electr\u00F3nico", 1, "form-control"], ["type", "text", "formControlName", "subject", "id", "msg_subject", "required", "", "placeholder", "Asunto", 1, "form-control"], ["type", "text", "formControlName", "phone", "id", "phone_number", "required", "", "placeholder", "Su tel\u00E9fono", 1, "form-control"], [1, "col-lg-12", "col-md-12"], ["formControlName", "message", "id", "message", "cols", "30", "rows", "6", "required", "", "placeholder", "Escriba su mensaje...", 1, "form-control"], [1, "col-lg-12", "col-md-12", "text-center"], ["type", "submit", 1, "default-btn-one"]],
   template: function ContactComponent_Template(rf, ctx) {
     if (rf & 1) {
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "div", 4)(5, "h2");
@@ -931,64 +931,61 @@ class ContactComponent {
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](20, "Tel\u00E9fonos");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](21, "p")(22, "a", 11);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](23, "+52 1 999 518 8337");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](24, "p")(25, "a", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](26, "+52 1 999 544 8624");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](23, "+535 254 1322");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](27, "div", 8)(28, "div", 9);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](29, "i", 13);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](30, "h4");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](31, "Domicilio");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](24, "div", 8)(25, "div", 9);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](26, "i", 12);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](27, "h4");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](28, "Domicilio");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](32, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](33, "Calle 16 No 313 interior 5");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](29, "p");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](30, "Calle La Sola 307");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](34, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](35, "entre 7 y 9 Residencial C\u00E1mara");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](31, "p");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](32, "entre Santa Catalina y Milagors");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](36, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](37, "de Comercio del Norte. M\u00E9rida, Yucat\u00E1n");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](33, "p");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](34, "Diez de Octubre. La Hbana, Cuba");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](38, "div", 14)(39, "div", 9);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](40, "i", 15);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](41, "h4");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](42, "Correos electr\u00F3nicos");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](35, "div", 13)(36, "div", 9);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](37, "i", 14);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](38, "h4");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](39, "Correos electr\u00F3nicos");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](40, "p")(41, "a", 15);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](42, "info@go-go-go.app");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](43, "p")(44, "a", 16);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](45, "info@wimexpress.com");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](46, "p")(47, "a", 17);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](48, "mabel.comelect@wiremidmx.com");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](45, "postmaster@go-go-go.app");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()()()()()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](49, "div", 18)(50, "div", 3)(51, "div", 19)(52, "span");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](53, "Escr\u00EDbanos");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](46, "div", 17)(47, "div", 3)(48, "div", 18)(49, "span");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](50, "Escr\u00EDbanos");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](54, "h2");
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](55, "Estamos a la espera de sus comentarios");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](51, "h2");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](52, "Estamos a la espera de sus comentarios");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](56, "div", 20)(57, "form", 21)(58, "div", 7)(59, "div", 22)(60, "div", 23);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](53, "div", 19)(54, "form", 20)(55, "div", 7)(56, "div", 21)(57, "div", 22);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](58, "input", 23);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](59, "div", 21)(60, "div", 22);
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](61, "input", 24);
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](62, "div", 22)(63, "div", 23);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](62, "div", 21)(63, "div", 22);
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](64, "input", 25);
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](65, "div", 22)(66, "div", 23);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](65, "div", 21)(66, "div", 22);
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](67, "input", 26);
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](68, "div", 22)(69, "div", 23);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](70, "input", 27);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](68, "div", 27)(69, "div", 22);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](70, "textarea", 28);
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](71, "div", 28)(72, "div", 23);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](73, "textarea", 29);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](74, "div", 30)(75, "button", 31);
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](76, "Enviar Mensaje");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](71, "div", 29)(72, "button", 30);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](73, "Enviar Mensaje");
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()()()()()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](77, "ath-subscribe");
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](74, "ath-subscribe");
     }
     if (rf & 2) {
-      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](57);
+      _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](54);
       _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("formGroup", ctx.contactForm);
     }
   },
